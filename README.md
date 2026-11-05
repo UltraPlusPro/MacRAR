@@ -6,11 +6,12 @@ MacRAR 是一款面向 macOS 的压缩与解压工具。本仓库用于统一管
 
 所有版本的安装包（`.dmg`）都在 **[Releases](https://github.com/UltraPlusPro/MacRAR/releases)** 页面发布。
 
-- 最新版本：**v1.2.5**
+- 最新稳定版：**v1.2.5**
+- 预发布（测试用）：**v1.2.6**（Pre-release）
 
 ## 安装
 
-1. 进入 [Releases](https://github.com/UltraPlusPro/MacRAR/releases) 页面，下载 `MacRAR 1.2.5.dmg`。
+1. 进入 [Releases](https://github.com/UltraPlusPro/MacRAR/releases) 页面，下载所需版本（稳定版 `MacRAR 1.2.5.dmg` 或预发布 `MacRAR 1.2.6.dmg`）。
 2. 双击挂载 DMG 镜像。
 3. 将 `MacRAR.app` 拖入“应用程序”文件夹。
 4. 从启动台打开即可使用。
