@@ -18,12 +18,12 @@ MacRAR 是一款**免费、开源、原生 SwiftUI** 的 macOS 压缩与解压�
 所有版本的安装包（`.dmg`）都在 **[Releases](https://github.com/UltraPlusPro/MacRAR/releases)** 页面发布。
 
 - 最新稳定版：**v1.3.3**（Latest）
-- 最新预发布：**v1.3.2**（Pre-release）
-- 其他预发布（测试用）：**v1.3.0**、**v1.2.6**（Pre-release）
+- 最新预发布：**v1.4.6**（Pre-release）
+- 其他预发布（测试用）：**v1.3.2**、**v1.3.0**、**v1.2.6**（Pre-release）
 
 ## 安装
 
-1. 进入 [Releases](https://github.com/UltraPlusPro/MacRAR/releases) 页面，下载所需版本（稳定版 `MacRAR 1.3.3.dmg`，或预发布 `MacRAR 1.3.2.dmg` / `MacRAR 1.3.0.dmg` / `MacRAR 1.2.6.dmg`）。
+1. 进入 [Releases](https://github.com/UltraPlusPro/MacRAR/releases) 页面，下载所需版本（稳定版 `MacRAR.1.3.3.dmg`，或预发布 `MacRAR.1.4.6.dmg` / `MacRAR.1.3.2.dmg` / `MacRAR.1.3.0.dmg` / `MacRAR.1.2.6.dmg`）。
 2. 双击挂载 DMG 镜像。
 3. 将 `MacRAR.app` 拖入“应用程序”文件夹。
 4. 从启动台打开即可使用。
@@ -36,10 +36,8 @@ MacRAR 是一款**免费、开源、原生 SwiftUI** 的 macOS 压缩与解压�
 
 ## 系统要求
 
-- macOS 11 (Big Sur) 或更高版本
-- 支持 Apple Silicon 与 Intel 机型
-
-> 注：上述系统要求为初始占位说明，请以实际安装包为准，可在 Releases 说明中补充修正。
+- macOS 12.7 或更高版本（v1.4.x）
+- 支持 Apple Silicon 与 Intel 机型（universal 二进制）
 
 ## 开源协议
 
